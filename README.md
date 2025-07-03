@@ -1,5 +1,21 @@
 # 🚀 Welcome to your Gemini CLI Workspace! 🚀
 
+## Try it out!
+<a href="https://idx.google.com/new?template=https://github.com/estherwasatester/gemini-cli-template/tree/main">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://cdn.idx.dev/btn/open_dark_32.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://cdn.idx.dev/btn/open_light_32.svg">
+    <img
+      height="32"
+      alt="Open in IDX"
+      src="https://cdn.idx.dev/btn/open_purple_32.svg">
+  </picture>
+</a>
+
 This workspace is pre-configured to help you get started with the Gemini CLI and Firebase. Here's how to get everything set up:
 
 ### 1. Authenticate with Gemini
