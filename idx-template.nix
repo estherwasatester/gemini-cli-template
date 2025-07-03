@@ -1,6 +1,6 @@
 { pkgs, ... }: {
   packages = [
-    pkgs.nodejs_20 pkgs.nodePackages.pnpm
+    pkgs.nodejs_24 pkgs.nodePackages.pnpm
   ];
   bootstrap = ''
     cp -rf ${./.} "$out"
