@@ -39,7 +39,7 @@ You have a few options to authenticate with the Gemini CLI:
 To connect the Gemini CLI to your Firebase project, you need to update the [`.firebaserc`](./.firebaserc) file:
 
 1.  Open the [`.firebaserc`](./.firebaserc) file.
-2.  Replace `"cymbal-cycles"` with your Firebase project ID.
+2.  Replace `"project-id"` with your Firebase project ID.
 3.  If you aren't prompted you'll need to authenticate with Firebase by running `firebase login` in your terminal.
 
 The Gemini CLI is already configured to use the Firebase MCP server, as you can see in the [`.gemini/settings.json`](./.gemini/settings.json) file.
