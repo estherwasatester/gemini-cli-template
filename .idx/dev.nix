@@ -39,6 +39,7 @@
       # Runs when a workspace is first created
       onCreate = {
         # Example: install JS dependencies from NPM
+        gemini-install = "npm install -g @google/gemini-cli";
         gemini = "gemini";
         # Open editors for the following files by default, if they exist:
         default.openFiles = [ "README.md" ];
